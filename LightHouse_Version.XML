@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.2</version>
+    <version>1.0.0.3</version>
     <url>https://raw.githubusercontent.com/oppakjt/LightHouse/master/Update.zip</url>
-    <changelog>http://oppakjt.tistory.com/29?category=312059</changelog>
+    <changelog>http://oppakjt.tistory.com/32</changelog>
     <mandatory>true</mandatory>
 </item>
